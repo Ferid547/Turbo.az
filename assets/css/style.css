@@ -1,0 +1,204 @@
+.head{
+  position: absolute;
+  left: 240px;
+  font-family: system-ui;
+}
+ul li{
+  list-style: none;
+  display: inline;
+  position: relative;
+  bottom: 20px;
+}
+.tap {
+  text-decoration: none;
+  color: #646464;
+}
+.tap:hover{
+  color: rgb(224 52 52);
+}
+.bina {
+  text-decoration: none;
+  color: #646464;
+  position: absolute;
+  left: 20px;
+}
+.bina:hover{
+  color: rgb(224 52 52);
+}
+.boss {
+  text-decoration: none;
+  color: #646464;
+  position: absolute;
+  left: 90px;
+}
+.boss:hover{
+  color: rgb(224 52 52);
+}
+.destek{
+  position: absolute;
+  left: 330px;
+}
+.tel {
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+  left: 385px;
+  width: 113px;
+}
+.tel:hover{
+  color: rgb(224 52 52);
+}
+.tel2 {
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+  left: 500px;
+  width: 109px;
+}
+.tel2:hover{
+  color: rgb(224 52 52);
+}
+.yardim{
+  text-decoration: none;
+  color: #646464;
+  position: absolute;
+  left: 645px;
+}
+.yardim:hover{
+  color: rgb(224 52 52);
+}
+.ru {
+  text-decoration: none;
+  color: #646464;
+  position: absolute;
+  left: 725px;
+}
+.ru:hover{
+  color: rgb(224 52 52);
+}
+#heart {
+  margin-right: 7px;
+}
+.secilmisler {
+  text-decoration: none;
+  color: #646464;
+  position: absolute;
+  left: 777px;
+  width: 101px;
+}
+.secilmisler:hover{
+  color: rgb(224 52 52);
+}
+#user {
+  margin-right: 7px;
+}
+.giris {
+  text-decoration: none;
+  color: #646464;
+  position: absolute;
+  left: 904px;
+  width: 101px;
+}
+.giris:hover{
+  color: rgb(224 52 52);
+}
+.section {
+  position: relative;
+  background-color: #ca1016;
+  top: 29px;
+  height: 68px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+ul li {
+  display: inline;
+}
+.logo{
+  position: relative;
+  text-decoration: none;
+  color: white;
+  font-size: 22px;
+  font-family: sans-serif;
+  left: 235px;
+  top: 42px;
+  font-weight: 600;
+}
+.elanlar {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  position: absolute;
+  left: 290px;
+  width: 100px;
+  top: 41px;
+}
+.elanlar:hover{
+  color: #d6b2b2;
+}
+.avto {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  position: absolute;
+  left: 420px;
+  top: 41px;
+}
+.avto:hover{
+  color: #d6b2b2;
+}
+.ehtiyyat {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  position: relative;
+  left: 540px;
+  top: 21px;
+  padding: 15px;
+}
+.ehtiyyat:hover{
+  color: #d6b2b2;
+}
+#plus{
+  margin-right: 5px;
+}
+.yeni {
+  text-decoration: none;
+  color: white;
+  background-color: #38c038;
+  padding: 9px 16px 10px 16px;
+  border-radius: 5px;
+  position: relative;
+  left: 755px;
+  top: 39px;
+}
+.yeni:hover {
+  background-color:#1ba61b;
+  transition: 0.5s; 
+}
+.dropdown {
+  display: inline-block;
+  position: relative;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  width: 100%;
+  overflow: auto;
+  background-color: #ffffff;
+  box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+  left: 550px;
+  top: 55px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.dropdown:hover .dropdown-content{
+  display: block;
+}
+.dropdown-content a {
+  display: block;
+  color: #000000;
+  padding: 10px;
+  text-decoration: none;
+}
+.dropdown-content a:hover{
+  background-color: rgb(205, 205, 205);
+}
